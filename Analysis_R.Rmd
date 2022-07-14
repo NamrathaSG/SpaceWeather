@@ -1,6 +1,5 @@
 ---
-title: '5999'
-author: "Leah Wu"
+title: 'Critical Risk Index for Space Weather'
 date: "2/2/2022"
 output: html_document
 ---
