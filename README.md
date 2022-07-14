@@ -4,6 +4,8 @@ Creating a stability index that captures the variations in magnetic fields using
 
 Keywords: Space weather, risk index, time series analysis, big data
 
+`Note: The data was downloaded from SuperMAG` [link↗](https://supermag.jhuapl.edu/)
+
 *Contributers: Jimi He, Joohyun Kim, Namratha Sathish, Shuang Wu and Yizhou Liu*
 
 
