@@ -1,6 +1,5 @@
 ---
-title: "Project_Final"
-author: "Joo Kim"
+title: "Critical Risk Index for FRD"
 date: '2022-05-19'
 output: pdf_document
 ---
